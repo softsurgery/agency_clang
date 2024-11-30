@@ -1,0 +1,31 @@
+=====================================================================
+||                 BIENVENUE DANS LE MENU DE GESTION               ||
+||                      DES VOYAGES DE L'AGENCE                    || 
+=====================================================================
+||                                                                 ||
+||                ----Veuillez choisir une action----              ||
+=====================================================================
+||                 ****** Gestion de voyages ******                ||
+=====================================================================
+||                                                                 ||
+||         1. Afficher tous Les voyages                            ||
+||         2. Afficher les voyages par type                        ||
+||         3. Rechercher les voyages d'un client                   ||
+||         4. Ajouter un voyage                                    ||
+||         5. Suppriper un voyage                                  ||
+||         6. Retarder on voyage                                   ||
+||                                                                 ||
+=====================================================================
+||              ****** Gestion de reservations *****.              ||
+=====================================================================
+||         7. Afficher toutes les reservations                     ||
+||         8. Reserver un voyage individual                        ||
+||         9. Reserver un voyage en groupe                         ||
+||         10. Annuler une reservation                             ||
+=====================================================================
+||         11. Tirage au sort du gagnant                           ||
+||                                                                 ||
+=====================================================================
+||         12. RETOUR AU MENU PRINCIPAL                            ||
+||         13. QUITTER L'APPLICATION                               ||
+=====================================================================
